@@ -1,0 +1,17 @@
+p {
+    color: red; 
+    background-color: blue
+}
+#terceiro {
+    color: green; 
+    background-color: yellow
+}
+
+p.texto {
+    color: orange;
+    background-color: blueviolet;
+}
+
+body {
+    background-color: brown;
+}
