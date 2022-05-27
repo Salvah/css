@@ -1,0 +1,15 @@
+div.descricao {
+    background-color: aqua;
+    color: purple;
+    text-align: justify;
+    text-align-last: center;
+    
+}
+
+h2 {
+    color: red;
+    text-decoration-line: overline underline;
+    text-decoration-color: aquamarine;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+}

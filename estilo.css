@@ -8,10 +8,10 @@ p {
 }
 
 p.texto {
-    color: orange;
-    background-color: blueviolet;
+    color: rgb(0, 0, 0);
+    background-color: rgba(138,43, 226, 0.3);
 }
 
 body {
-    background-color: brown;
+    background-color: salmon  ;
 }
