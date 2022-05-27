@@ -3,7 +3,7 @@ div.descricao {
     color: purple;
     text-align: justify;
     text-align-last: center;
-    
+    text-indent: 50px;
 }
 
 h2 {
