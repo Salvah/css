@@ -13,3 +13,7 @@ h2 {
     text-decoration-style: dotted;
     text-decoration-thickness: 5px;
 }
+
+.lista {
+    text-transform: uppercase;
+}
