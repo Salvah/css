@@ -4,6 +4,7 @@ div.descricao {
     text-align: justify;
     text-align-last: center;
     text-indent: 50px;
+    letter-spacing: 1px;
 }
 
 h2 {
